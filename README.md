@@ -4,24 +4,24 @@ SOOP 방송용 신청곡 플레이어예요. 별풍선·애드벌룬 후원 + �
 
 ## ⬇️ 받기
 
-### 👉 [춘봉플레이어 1.8.1 설치 파일 받기](https://github.com/chunbongtv/chunplayer/releases/download/v1.8.1/ChunbongPlayer_Setup_1.8.1.exe)
+### 👉 [춘봉플레이어 1.9.0 설치 파일 받기](https://github.com/chunbongtv/chunplayer/releases/download/v1.9.0/ChunbongPlayer_Setup_1.9.0.exe)
 
-- 📚 [그림 설명서 한꺼번에 받기 (zip)](https://github.com/chunbongtv/chunplayer/releases/download/v1.8.1/ChunbongPlayer_Manual.zip)
+- 📚 [그림 설명서 한꺼번에 받기 (zip)](https://github.com/chunbongtv/chunplayer/releases/download/v1.9.0/ChunbongPlayer_Manual.zip)
 - 🗂 [지난 버전 · 업데이트 기록](https://github.com/chunbongtv/chunplayer/releases)
 
 > ⚠️ **라이선스 키가 있어야 쓸 수 있어요.** 키는 SOOP 스트리머 **춘봉(chunbongtv)** 에게 DM으로 받아 주세요.
 > 
 > 이미 1.7.0 이상을 쓰고 있다면, 관리 화면에 뜨는 **[⬆️ 지금 업데이트]** 버튼만 누르면 돼요. (설정·라이선스·대기 목록은 그대로)
 
-## 🆕 이번 버전 (1.8.1)
+## 🆕 이번 버전 (1.9.0)
 
-1.8.1 업데이트
+1.9.0 업데이트
 
+- ⭐ 프리미엄 기능 "내 그림 넣기"가 생겼어요 (프리미엄 키가 있어야 해요)
+  · LP판 가운데 얼굴 / 왼쪽 그림 / 신청곡 감사 효과를 내 그림으로 바꿀 수 있어요
+  · 관리 화면 [화면 꾸미기] → [⭐ 내 그림 넣기]에서 그림 파일을 올리면 바로 바뀌어요
+  · 프리미엄 키는 춘봉(chunbongtv)에게 DM으로 문의해 주세요
 - 관리 화면 [화면 꾸미기]에서 재생창 왼쪽 그림을 고를 수 있어요: 💿 LP판 / 🦁 춘봉이
-- LP판: 가운데 춘봉이 얼굴 + 지금 노래 유튜브 썸네일이 빙글빙글
-- 춘봉이: 디제잉하는 DJ 춘봉이가 박자에 맞춰 둠칫둠칫
-- 속도 조절은 [움직임 속도] 하나로 둘 다 바뀌어요
-- 신청곡·우선예약 감사 효과에 나오는 춘봉이 그림이 새로 바뀌었어요
 
 ## 📖 설명서
 
