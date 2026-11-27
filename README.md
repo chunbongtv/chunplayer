@@ -4,19 +4,23 @@ SOOP 방송용 신청곡 플레이어예요. 별풍선·애드벌룬 후원 + �
 
 ## ⬇️ 받기
 
-### 👉 [춘봉플레이어 1.9.3 설치 파일 받기](https://github.com/chunbongtv/chunplayer/releases/download/v1.9.3/ChunbongPlayer_Setup_1.9.3.exe)
+### 👉 [춘봉플레이어 1.9.4 설치 파일 받기](https://github.com/chunbongtv/chunplayer/releases/download/v1.9.4/ChunbongPlayer_Setup_1.9.4.exe)
 
-- 📚 [그림 설명서 한꺼번에 받기 (zip)](https://github.com/chunbongtv/chunplayer/releases/download/v1.9.3/ChunbongPlayer_Manual.zip)
+- 📚 [그림 설명서 한꺼번에 받기 (zip)](https://github.com/chunbongtv/chunplayer/releases/download/v1.9.4/ChunbongPlayer_Manual.zip)
 - 🗂 [지난 버전 · 업데이트 기록](https://github.com/chunbongtv/chunplayer/releases)
 
 > ⚠️ **라이선스 키가 있어야 쓸 수 있어요.** 키는 SOOP 스트리머 **춘봉(chunbongtv)** 에게 DM으로 받아 주세요.
 > 
 > 이미 1.7.0 이상을 쓰고 있다면, 관리 화면에 뜨는 **[⬆️ 지금 업데이트]** 버튼만 누르면 돼요. (설정·라이선스·대기 목록은 그대로)
 
-## 🆕 이번 버전 (1.9.3)
+## 🆕 이번 버전 (1.9.4)
+
+1.9.4 업데이트
+
+- 🎨 색을 팔레트에서 마음대로 고를 수 있어요 (테두리 색 · 배경색 · 글씨 색 모두 [🎨 직접])
+  밝은 배경색을 고르면 글자가 알아서 진하게 바뀌어요
 
 1.9.3 업데이트
-
 - 관리 화면 [화면 꾸미기]에서 재생창 배경색을 고를 수 있어요 (검정·남색·진보라·와인·숲·하양·크림·연분홍·연하늘·연민트·연보라)
   밝은 배경을 고르면 글자가 알아서 진하게 바뀌어요
 - 재생창 글꼴을 고를 수 있어요 (기본·주아·검은고딕·도현·개구·해바라기·쿠키런)
